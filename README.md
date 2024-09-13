@@ -1,2 +1,6 @@
-# GAIB-Docs
-Documentation of GAIB.ai
+---
+description: Welcome to GAIB documentation.
+---
+
+# Welcome
+
