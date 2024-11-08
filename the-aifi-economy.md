@@ -1,4 +1,8 @@
-# The AIFi Economy
+---
+description: Explaining how the GAIB tokenomics work
+---
+
+# The AiFi Economy
 
 GAIB is building the AiFi economy, which signifies a paradigm shift in how we perceive and utilize computational resources, particularly in the context of artificial intelligence and machine learning. As AI continues to transform industries and drive innovation, compute power, especially that provided by high-performance GPUs, is becoming an increasingly critical resource - akin to a new currency in this evolving economic landscape.
 

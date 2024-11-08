@@ -1,3 +1,7 @@
+---
+description: Introducing GAIB AI on a high level
+---
+
 # Introduction
 
 GAIB is the economic layer for AI and compute future. We enable anyone to own a piece of AI. The name “GAIB” draws inspiration not only from the movie Dune, symbolizing “the unseen” or “the future”, but also from our core pillars: GPU, AI, and Fi (Financialization). In the AI era, GPUs are the new assets, and compute is the new currency akin to spice in Dune, GAIB is liberating a trillion-dollar AI & compute market.
