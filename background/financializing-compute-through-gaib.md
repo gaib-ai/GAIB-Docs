@@ -1,3 +1,7 @@
+---
+icon: hand-holding-circle-dollar
+---
+
 # Financializing Compute Through GAIB
 
 GAIB's strategy is inspired by financial innovations from other markets. Just as Real Estate Investment Trusts (REITs) made property investment more liquid and accessible, GAIB aims to create a similar model for high-performance computing resources.

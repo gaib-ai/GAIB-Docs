@@ -1,3 +1,7 @@
+---
+icon: hand-holding-circle-dollar
+---
+
 # Challenges in Financializing Compute
 
 Just as gold once served as the backbone of monetary systems, we at GAIB believe that GPU compute power could become the foundation for a new digital economy in the AI era. However, unlike gold, GPUs are not easily divisible or tradable in their physical form, especially when it comes to the enterprise-grade hardware that GAIB focuses on.\

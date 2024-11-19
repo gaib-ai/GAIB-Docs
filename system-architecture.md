@@ -1,5 +1,6 @@
 ---
 description: An intro of the system design of GAIB overview architecture
+icon: diagram-project
 ---
 
 # System Architecture

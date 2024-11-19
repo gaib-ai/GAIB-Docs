@@ -1,5 +1,6 @@
 ---
 description: Explaining how the GAIB tokenomics work
+icon: hands-holding-dollar
 ---
 
 # The AiFi Economy

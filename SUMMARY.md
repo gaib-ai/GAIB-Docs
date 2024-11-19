@@ -7,3 +7,4 @@
   * [Financializing Compute Through GAIB](background/financializing-compute-through-gaib.md)
 * [The AiFi Economy](the-aifi-economy.md)
 * [System Architecture](system-architecture.md)
+* [The GAIB platform](the-gaib-platform.md)
