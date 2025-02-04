@@ -1,6 +1,6 @@
 # Protocol Mechanics
 
-<figure><img src="../.gitbook/assets/Protocol Mechanics (3).svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Protocol Mechanics (3).svg" alt=""><figcaption><p>GAIB Architecture</p></figcaption></figure>
 
 ## Off-chain Components&#x20;
 
