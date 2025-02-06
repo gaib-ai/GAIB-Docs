@@ -4,7 +4,7 @@
 
 Users can stake their **PICE** through GAIB's interface. A “Stake” transaction exchanges PICE for **sPICE**, a liquid receipt token representing the staked position. Conversely, an “Unstake” transaction returns staked PICE to the user, instantly updating balances upon confirmation on the blockchain.
 
-A cooldown period of seven days applies after unstaking, during which users cannot withdraw PICE. Once the cooldown expires, users can freely withdraw their unstaked PICE.
+A cooldown period of 14 days applies after unstaking, during which users cannot withdraw PICE. Once the cooldown expires, users can freely withdraw their unstaked PICE.
 
 ## Reward Mechanism
 
@@ -27,6 +27,6 @@ When users unstake, they receive an amount of PICE equal to their initial stake 
 * **Fewer Tokens, Equivalent Value**\
   Receiving fewer sPICE tokens than PICE deposited is normal; the underlying value remains the same.
 * **Cooldown Period**\
-  After unstaking, stakers must wait seven days before withdrawing PICE.
+  After unstaking, stakers must wait 14 days before withdrawing PICE.
 
 By aligning sPICE with real protocol growth through a transparent ratio mechanism, GAIB ensures that staking remains straightforward, secure, and rewarding.
