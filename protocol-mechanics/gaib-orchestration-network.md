@@ -8,9 +8,9 @@ In order to minimize trust assumptions in the financial infrastructure that GAIB
 
 1. **GAIB Inspector:** Installed on GPU clusters for hardware monitoring and data reporting.
 2. **Supervisor Node:** Supervises GPU clusters by validating raw data submitted by GAIB Inspectors.
-3. **Ground Truth Service:** Serves as a log of the consensus between supervised nodes to maintain and manage validated ground truth data.
+3. **Ground Truth Service:** Serves as a log of the consensus between supervised nodes to maintain and manage validated ground truth data.&#x20;
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXetYXn1Oe-cmNyxjMCrSvf8YhZ7EuQMEHTaVC1FwIA42G1NpBjo4eB8ZgDdHE_e3ktIoKi5Gu7Kxml_hBxeSdwM1sQBONcRdtj9_Up8lbCFKZ6UNmtnMC3dzfEWAyD21w7WLtMQFA?key=kgXSrPtzHcXIR_28oMEnwJDW" alt=""><figcaption><p>Orchestration Network Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Orchestration Network.svg" alt=""><figcaption><p>Orchestration Network Architecture</p></figcaption></figure>
 
 ### **GAIB Inspector**
 
