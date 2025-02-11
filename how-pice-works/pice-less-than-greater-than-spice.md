@@ -14,8 +14,8 @@ GAIB leverages a **token vault** approach—similar to Rocketpool’s rETH or Bi
    * **No Rehypothecation**: Deposited USDai remains in the staking contract; it is not lent out or repurposed.
    * **Reward Accrual**: Protocol-level revenue is periodically deposited into the staking contract, increasing the value of sUSDai in relation to USDai.
 2. **Value Growth**
-   * sPICE’s worth in PICE terms rises over time as protocol rewards flow in.
-   * The **sPICE:PICE ratio** is calculated as: _sUSDai:USDai ratio_ = (total _sUSDai_ supply) / (total _USDai_ staked + total protocol revenue deposited in _USDai_ terms)
+   * sUSDai’s worth in USDai terms rises over time as protocol rewards flow in.
+   * The **sUSDai:USDai ratio** is calculated as: _sUSDai:USDai ratio_ = (total _sUSDai_ supply) / (total _USDai_ staked + total protocol revenue deposited in _USDai_ terms)
    * Users often receive fewer sUSDai tokens than the USDai they stake, but the total value matches. As the ratio increases, sUSDai appreciates in USDai terms.&#x20;
 
 When users unstake, they receive an amount of USDai equal to their initial stake plus accrued rewards, as reflected by the increased sUSDai-to-USDai ratio.
@@ -25,7 +25,7 @@ When users unstake, they receive an amount of USDai equal to their initial stake
 * **Stakers Need Not Take Extra Steps**\
   Simply holding sUSDai accrues benefits automatically.
 * **Fewer Tokens, Equivalent Value**\
-  Receiving fewer sUSDai tokens than PICE deposited is normal; the underlying value remains the same.
+  Receiving fewer sUSDai tokens than USDai deposited is normal; the underlying value remains the same.
 * **Cooldown Period**\
   After unstaking, stakers must wait 14 days before withdrawing USDai.
 
