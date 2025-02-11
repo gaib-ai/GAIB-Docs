@@ -52,7 +52,7 @@ Through GAIB's mint and redeem smart contracts, whitelisted KYC-ed users can dir
 
 ### Staking&#x20;
 
-All users can stake their USDai, and receive sUSDai, a liquid receipt token representing their staked USDai position. sUSDai accrues yield, allowing them to claim yield when they unstake. Details can be found on the [USDai <-> sUSDai](../how-usdai-works/usdai-less-than-greater-than-susdai.md) page.&#x20;
+All users can stake their USDai, and receive sUSDai, a liquid receipt token representing their staked USDai position. sUSDai accrues yield, allowing them to claim yield when they unstake. Details can be found on the [USDai <-> sUSDai](../how-pice-works/pice-less-than-greater-than-spice.md) page.&#x20;
 
 ### Liquidity Pools
 
