@@ -1,6 +1,6 @@
 # Protocol Mechanics
 
-<figure><img src="../.gitbook/assets/Protocol Mechanics (3).svg" alt=""><figcaption><p>GAIB Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/USDai_dark (1).svg" alt=""><figcaption><p>GAIB Architecture</p></figcaption></figure>
 
 ## Off-chain Components&#x20;
 
@@ -48,29 +48,29 @@ GAIB works with third-party auditors, credit underwriters, custody, attestation,
 
 ### Mint & Redeem&#x20;
 
-Through GAIB's mint and redeem smart contracts, whitelisted KYC-ed users can directly mint GAIB's AI Synthetic Dollar PICE with stablecoins and redeem their stablecoins with PICE on the GAIB protocol.&#x20;
+Through GAIB's mint and redeem smart contracts, whitelisted KYC-ed users can directly mint GAIB's AI Synthetic Dollar USDai with stablecoins and redeem their stablecoins with USDai on the GAIB protocol.&#x20;
 
 ### Staking&#x20;
 
-All users can stake their PICE, and receive sPICE, a liquid receipt token representing their staked PICE position. sPICE accrues yield, allowing them to claim yield when they unstake. Details can be found on the [PICE <--> sPICE](https://app.gitbook.com/o/EJ1V9eVhNyL0F9urWK6B/s/LXNTW9blcTeiKZrMFhab/~/changes/14/how-pice-works/pice-less-than-greater-than-spice) page.&#x20;
+All users can stake their USDai, and receive sUSDai, a liquid receipt token representing their staked USDai position. sUSDai accrues yield, allowing them to claim yield when they unstake. Details can be found on the [USDai <-> sUSDai](../how-usdai-works/usdai-less-than-greater-than-susdai.md) page.&#x20;
 
 ### Liquidity Pools
 
-GAIB will integrate with major AMMs and maintain liquidity pools for PICE. Through the GAIB interface, all users can exchange stablecoins for PICE and vice versa by accessing external liquidity pools.
+GAIB will integrate with major AMMs and maintain liquidity pools for USDai. Through the GAIB interface, all users can exchange stablecoins for USDai![](../.gitbook/assets/USDai_dark.svg) and vice versa by accessing external liquidity pools.
 
 ### DeFi Use Cases&#x20;
 
 #### **Lending and Borrowing**
 
-GAIB will integrate with major lending protocols, allowing users to deposit **PICE** into lending pools for additional yields. Users may also borrow PICE by locking major cryptocurrencies as collateral, improving liquidity and capital efficiency within the ecosystem.
+GAIB will integrate with major lending protocols, allowing users to deposit **USDai** into lending pools for additional yields. Users may also borrow USDai by locking major cryptocurrencies as collateral, improving liquidity and capital efficiency within the ecosystem.
 
 #### **Yield Trading**
 
-As a yield-bearing asset, **sPICE** will be adopted by specialized yield-trading protocols. Holders can create or trade Principal Tokens (PT) and Yield Tokens (YT) based on sPICE, or supply liquidity for PT and YT pairs. By offering various risk-reward profiles—ranging from stable returns to higher-risk speculation—this approach caters to a broad range of investor strategies.
+As a yield-bearing asset, **sUSDai** will be adopted by specialized yield-trading protocols. Holders can create or trade Principal Tokens (PT) and Yield Tokens (YT) based on sUSDai, or supply liquidity for PT and YT pairs. By offering various risk-reward profiles—ranging from stable returns to higher-risk speculation—this approach caters to a broad range of investor strategies.
 
 #### **Derivatives**
 
-With robust liquidity and steady yield generation, **PICE** and **sPICE** can serve as the foundation for diverse derivative products. This fosters greater market innovation while meeting the growing demand for advanced hedging, speculation, and risk management.&#x20;
+With robust liquidity and steady yield generation, **USDai** and **sUSDai** can serve as the foundation for diverse derivative products. This fosters greater market innovation while meeting the growing demand for advanced hedging, speculation, and risk management.&#x20;
 
 #### **Customized Yield Strategies**
 
