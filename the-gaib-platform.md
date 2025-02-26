@@ -1,6 +1,7 @@
 ---
-description: A brief intro of our web app for handling NFT's as well as tenancies
 icon: robot-astromech
+description: A brief intro of our web app for handling NFT's as well as tenancies
+hidden: true
 ---
 
 # The GAIB platform

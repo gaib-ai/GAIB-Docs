@@ -1,5 +1,6 @@
 ---
 description: Introducing GAIB AI on a high level
+hidden: true
 ---
 
 # Introduction
@@ -8,7 +9,7 @@ GAIB is the economic layer for AI and compute future. We enable anyone to own a 
 
 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD\_4nXf0ZLwlizI8Rl\_CzHhNB9B7KWs2VkHymzjTJaDlhj5NGtex89V4xifwinVG5e5EW14h0FUdbAiRdU1XQUZhjKADHY13UL4EO\_ptFucIi7a4CUXMDYfiPoWyTgNnJXzf-0RuolSmBaB2vQ2NkzEzHFFsad3gzeuacn77r22-?key=JHeMwP\_Zf8Pjq-2HdG\_8Xw)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf0ZLwlizI8Rl_CzHhNB9B7KWs2VkHymzjTJaDlhj5NGtex89V4xifwinVG5e5EW14h0FUdbAiRdU1XQUZhjKADHY13UL4EO_ptFucIi7a4CUXMDYfiPoWyTgNnJXzf-0RuolSmBaB2vQ2NkzEzHFFsad3gzeuacn77r22-?key=JHeMwP_Zf8Pjq-2HdG_8Xw)
 
 
 

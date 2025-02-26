@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Background
 
 This missing Economic Layer has inspired GAIB to validate the idea that as AI technologies advance, the demand for powerful compute resources, especially enterprise-grade high-end GPUs, is skyrocketing.
