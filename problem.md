@@ -2,7 +2,7 @@
 
 #### _We live in the AI era._&#x20;
 
-Global private investment in AI is on track to exceed **$130 billion** in 2023, with applications like ChatGPT reaching **100 million** users faster than any product in history. It is projected that AI could contribute up to **$20 trillion** to the global economy by 2030—reshaping healthcare, finance, and manufacturing at breathtaking speed. Over **80%** of organizations report integrating AI into core processes, underscoring a seismic shift that stands to redefine our future more profoundly than any previous technological revolution.
+Tech megacaps including Meta, Amazon, Alphabet and Microsoft intend to spend as much as **$320 billion** combined on AI technologies and datacenter buildouts in 2025, with applications like ChatGPT reaching **100 million** users faster than any product in history. It is projected that AI could contribute up to **$20 trillion** to the global economy by 2030—reshaping healthcare, finance, and manufacturing at breathtaking speed. Over **80%** of organizations report integrating AI into core processes, underscoring a seismic shift that stands to redefine our future more profoundly than any previous technological revolution.
 
 #### _Crypto keeps redefining global finance._&#x20;
 
@@ -26,11 +26,13 @@ A single NVIDIA H200 card can cost upwards of $30,000, and outfitting a large-sc
 
 ## Limited Investment Opportunities&#x20;
 
-Compute captures the majority of value in the AI supply chain. For large AI projects, spend on compute can be a _substantial fraction_ of total cost—often cited anywhere from **30%** to **60%** of the overall operational spend for AI (covering both training and inference).&#x20;
+Compute captures the majority of value in the AI supply chain. For large AI projects, spend on compute can be a _substantial fraction_ of total cost—often cited anywhere from **30%** to **60%** of the overall operational spend for AI (covering both training and inference). &#x20;
+
+<figure><img src=".gitbook/assets/AI Value Smile Curve.jpg" alt=""><figcaption></figcaption></figure>
 
 Major chipmaker such as NVIDIA has gross margins as high as **60%**, while cloud providers and data centers have a margin of **30% - 60%**.&#x20;
 
-The global cloud compute sector has the size of more than [**$600 billion**](https://www.fortunebusinessinsights.com/cloud-computing-market-102697) in annual revenue as of 2024, with a compound annual growth rate (CAGR) of **12–18%** over the next five years.&#x20;
+The global cloud compute sector has the size of more than **$600 billion** in annual revenue as of 2024, with a compound annual growth rate (CAGR) of **12–18%** over the next five years.&#x20;
 
 However, for individual and institutional investors, the options to participate in such a substantial, high growth, and high margin sector are relatively limited. Beyond purchasing stocks of semiconductor manufacturers like NVIDIA, there are few avenues to directly invest in the compute assets that drive the AI revolution.&#x20;
 
