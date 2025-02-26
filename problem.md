@@ -30,7 +30,7 @@ Compute captures the majority of value in the AI supply chain. For large AI proj
 
 Major chipmaker such as NVIDIA has gross margins as high as **60%**, while cloud providers and data centers have a margin of **30% - 60%**.&#x20;
 
-The global compute sector has the size of **$400–$500 billion** in annual revenue as of 2024, with a compound annual growth rate (CAGR) of **12–18%** over the next five years.&#x20;
+The global cloud compute sector has the size of more than [**$600 billion**](https://www.fortunebusinessinsights.com/cloud-computing-market-102697) in annual revenue as of 2024, with a compound annual growth rate (CAGR) of **12–18%** over the next five years.&#x20;
 
 However, for individual and institutional investors, the options to participate in such a substantial, high growth, and high margin sector are relatively limited. Beyond purchasing stocks of semiconductor manufacturers like NVIDIA, there are few avenues to directly invest in the compute assets that drive the AI revolution.&#x20;
 
