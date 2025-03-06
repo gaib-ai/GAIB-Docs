@@ -4,7 +4,7 @@
 
 ## Off-chain Components&#x20;
 
-### Cloud / Data Centers 1,2,3,..., N
+### Cloud / Data Centers 1, 2, 3, ... N
 
 GAIB structures financing deals with reputable cloud companies and data centers around the world with GPU clusters and their contracts as backing.&#x20;
 
@@ -16,7 +16,7 @@ GAIB structures financing deals with reputable cloud companies and data centers 
 
 #### Collateral
 
-* All agreements are backed by physical GPUs. Currently GAIB prioritises highly sought-after enterprise grade GPUs like NVIDIA H100s and H200s.&#x20;
+* All agreements are backed by physical GPUs. Currently GAIB prioritises highly sought-after enterprise grade GPUs like NVIDIA H100s, H200s, GB200s, etc.&#x20;
 * GAIB structures deals on a cluster basis and prioritizes GPU clusters that are already reserved by clients from 1 to 3 years. &#x20;
 * Bankruptcy-remote structure would be used.  &#x20;
 * Maturity: depending on deal structuring, maturity can range from 3 months (e.g. bridge financing) to 3 years. Given the short payback period of enterprise-grade GPUs due to the high demand, GPU backed loans could have much shorter maturity than typical debt.&#x20;
@@ -38,7 +38,7 @@ given the surge of decentralized compute protocols aggregating under utilized co
 
 ### Treasury Bills&#x20;
 
-GAIB holds a small reserve of treasury bills to ensure liquidity in the case of redemption.&#x20;
+GAIB holds a reserve of treasury bills to ensure liquidity in the case of redemption.&#x20;
 
 ### Third Party&#x20;
 
@@ -48,29 +48,29 @@ GAIB works with third-party auditors, credit underwriters, custody, attestation,
 
 ### Mint & Redeem&#x20;
 
-Through GAIB's mint and redeem smart contracts, whitelisted KYC-ed users can directly mint GAIB's AI Synthetic Dollar USDai with stablecoins and redeem their stablecoins with USDai on the GAIB protocol.&#x20;
+Through GAIB's mint and redeem smart contracts, whitelisted KYC-ed users can directly mint GAIB's AI Synthetic Dollar _USDai_ with stablecoins and redeem their stablecoins with _USDai_ on the GAIB protocol.&#x20;
 
 ### Staking&#x20;
 
-All users can stake their USDai, and receive sUSDai, a liquid receipt token representing their staked USDai position. sUSDai accrues yield, allowing them to claim yield when they unstake. Details can be found on the [USDai <-> sUSDai](../how-pice-works/pice-less-than-greater-than-spice.md) page.&#x20;
+All users can stake their _USDai_, and receive _sUSDai_, a liquid receipt token representing their staked _USDai_ position. _sUSDai_ accrues yield, allowing them to claim yield when they unstake. Details can be found on the [USDai <-> sUSDai](../how-pice-works/pice-less-than-greater-than-spice.md) page.&#x20;
 
 ### Liquidity Pools
 
-GAIB will integrate with major AMMs and maintain liquidity pools for USDai. Through the GAIB interface, all users can exchange stablecoins for USDai![](../.gitbook/assets/USDai_dark.svg) and vice versa by accessing external liquidity pools.
+GAIB will integrate with major AMMs and maintain liquidity pools for USDai. Through the GAIB interface, all users can exchange stablecoins for USDai and vice versa by accessing external liquidity pools.
 
 ### DeFi Use Cases&#x20;
 
 #### **Lending and Borrowing**
 
-GAIB will integrate with major lending protocols, allowing users to deposit **USDai** into lending pools for additional yields. Users may also borrow USDai by locking major cryptocurrencies as collateral, improving liquidity and capital efficiency within the ecosystem.
+GAIB will integrate with major lending protocols, allowing users to deposit _**USDai**_ into lending pools for additional yields. Users may also borrow _USDai_ by locking major cryptocurrencies as collateral, improving liquidity and capital efficiency within the ecosystem.
 
 #### **Yield Trading**
 
-As a yield-bearing asset, **sUSDai** will be adopted by specialized yield-trading protocols. Holders can create or trade Principal Tokens (PT) and Yield Tokens (YT) based on sUSDai, or supply liquidity for PT and YT pairs. By offering various risk-reward profiles—ranging from stable returns to higher-risk speculation—this approach caters to a broad range of investor strategies.
+As a yield-bearing asset, _**sUSDai**_ will be adopted by specialized yield-trading protocols. Holders can create or trade Principal Tokens (PT) and Yield Tokens (YT) based on _sUSDai_, or supply liquidity for PT and YT pairs. By offering various risk-reward profiles—ranging from stable returns to higher-risk speculation—this approach caters to a broad range of investor strategies.
 
 #### **Derivatives**
 
-With robust liquidity and steady yield generation, **USDai** and **sUSDai** can serve as the foundation for diverse derivative products. This fosters greater market innovation while meeting the growing demand for advanced hedging, speculation, and risk management.&#x20;
+With robust liquidity and steady yield generation, _**USDai**_ and _**sUSDai**_ can serve as the foundation for diverse derivative products. This fosters greater market innovation while meeting the growing demand for advanced hedging, speculation, and risk management.&#x20;
 
 #### **Customized Yield Strategies**
 

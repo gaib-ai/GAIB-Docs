@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # GAIB Orchestration Network
 
 ## **System Components and Architecture**

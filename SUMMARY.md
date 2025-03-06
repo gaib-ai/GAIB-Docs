@@ -30,7 +30,7 @@
   * [Cookies Policy](legal/cookies-policy.md)
   * [Disclaimers and Risk Disclosures](legal/disclaimers-and-risk-disclosures.md)
   * [Pilot Program Disclaimer](legal/pilot-program-disclaimer.md)
-* [PICE](pice.md)
+* [PICE](aifi.md)
 * [FAQ](faq.md)
 * [----Below is Archive---------](below-is-archive.md)
 * [Introduction](introduction-1.md)
