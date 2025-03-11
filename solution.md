@@ -4,7 +4,7 @@ GAIB solves the problems by building a financial infrastructure for AI, starting
 
 ## **Off-Chain Yield Sources: GPU Financing**
 
-GAIB structures financing deals with established cloud operators and data centers worldwide. These deals come in three main forms: a debt model that takes interest on borrowed capital; an equity model that bases repayment on a share of GPU-generated revenue; and a hybrid model combining a blend of both. All agreements are backed by enterprise-grade GPUs (and their service contracts) — including NVIDIA H100s, H200s, GB200s and more — which are widely sought after and often reserved by clients for one to three years.
+GAIB structures financing deals with established cloud operators and data centers worldwide. These deals come in three main forms: a **debt model** that takes interest on borrowed capital; an **equity model** that bases repayment on a share of GPU-generated revenue; and a **hybrid model** combining a blend of both. All agreements are backed by enterprise-grade GPUs (and their service contracts) — including NVIDIA H100s, H200s, GB200s and more — which are widely sought after and often reserved by clients for one to three years.
 
 By using a bankruptcy-remote structure and prioritizing well-secured clusters, GAIB can offer financing maturities as short as three months (for bridge financing) or up to three years. Thanks to the high demand for these GPUs, the timeline for repayment can be much shorter than typical debt or equity deals. The projected gross yield for each deal varies depending on the financing model: around 10–20% for debt arrangements and up to 60–80% or more in equity-based structures.
 
