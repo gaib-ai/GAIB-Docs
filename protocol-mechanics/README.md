@@ -1,6 +1,6 @@
 # Protocol Mechanics
 
-<figure><img src="../.gitbook/assets/USDai_dark (1).svg" alt=""><figcaption><p>GAIB Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Protocol Mechanics Mar 18.svg" alt=""><figcaption><p>GAIB Architecture</p></figcaption></figure>
 
 ## Off-chain Components&#x20;
 
@@ -48,29 +48,29 @@ GAIB works with third-party auditors, credit underwriters, custody, attestation,
 
 ### Mint & Redeem&#x20;
 
-Through GAIB's mint and redeem smart contracts, whitelisted KYC-ed users can directly mint GAIB's AI Synthetic Dollar _USDai_ with stablecoins and redeem their stablecoins with _USDai_ on the GAIB protocol.&#x20;
+Through GAIB's mint and redeem smart contracts, whitelisted KYC-ed users can directly mint GAIB's AI Synthetic Dollar _AID_ with stablecoins and redeem their stablecoins with _AID_ on the GAIB protocol.&#x20;
 
 ### Staking&#x20;
 
-All users can stake their _USDai_, and receive _sUSDai_, a liquid receipt token representing their staked _USDai_ position. _sUSDai_ accrues yield, allowing them to claim yield when they unstake. Details can be found on the [USDai <-> sUSDai](../how-pice-works/pice-less-than-greater-than-spice.md) page.&#x20;
+All users can stake their _AID_, and receive _sAID_, a liquid receipt token representing their staked _AID_ position. _sAID_ accrues yield, allowing them to claim yield when they unstake. Details can be found on the [AID <-> sAID](../how-aid-works/aid-less-than-greater-than-said.md) page.&#x20;
 
 ### Liquidity Pools
 
-GAIB will integrate with major AMMs and maintain liquidity pools for USDai. Through the GAIB interface, all users can exchange stablecoins for USDai and vice versa by accessing external liquidity pools.
+GAIB will integrate with major AMMs and maintain liquidity pools for _AID_. Through the GAIB interface, all users can exchange stablecoins for _AID_ and vice versa by accessing external liquidity pools.
 
 ### DeFi Use Cases&#x20;
 
 #### **Lending and Borrowing**
 
-GAIB will integrate with major lending protocols, allowing users to deposit _**USDai**_ into lending pools for additional yields. Users may also borrow _USDai_ by locking major cryptocurrencies as collateral, improving liquidity and capital efficiency within the ecosystem.
+GAIB will integrate with major lending protocols, allowing users to deposit _**AID**_ into lending pools for additional yields. Users may also borrow _AID_ by locking major cryptocurrencies as collateral, improving liquidity and capital efficiency within the ecosystem.
 
 #### **Yield Trading**
 
-As a yield-bearing asset, _**sUSDai**_ will be adopted by specialized yield-trading protocols. Holders can create or trade Principal Tokens (PT) and Yield Tokens (YT) based on _sUSDai_, or supply liquidity for PT and YT pairs. By offering various risk-reward profiles—ranging from stable returns to higher-risk speculation—this approach caters to a broad range of investor strategies.
+As a yield-bearing asset, _**sAID**_ will be adopted by specialized yield-trading protocols. Holders can create or trade Principal Tokens (PT) and Yield Tokens (YT) based on _sAID_, or supply liquidity for PT and YT pairs. By offering various risk-reward profiles—ranging from stable returns to higher-risk speculation—this approach caters to a broad range of investor strategies.
 
 #### **Derivatives**
 
-With robust liquidity and steady yield generation, _**USDai**_ and _**sUSDai**_ can serve as the foundation for diverse derivative products. This fosters greater market innovation while meeting the growing demand for advanced hedging, speculation, and risk management.&#x20;
+With robust liquidity and steady yield generation, _**AID**_ and _**sAID**_ can serve as the foundation for diverse derivative products. This fosters greater market innovation while meeting the growing demand for advanced hedging, speculation, and risk management.&#x20;
 
 #### **Customized Yield Strategies**
 

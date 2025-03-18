@@ -20,11 +20,11 @@ While big-name stocks are one way to profit from AI, they don’t always capture
 
 ### **Yield-Bearing Base Currency**&#x20;
 
-GAIB’s yield-bearing AI Synthetic Dollar, _**USDai**_, rewards holders with passive income simply by staking. Beyond that, it serves as a versatile base currency for trading, lending, and liquidity provisioning across major DeFi protocols, delivering robust functionality and utility for investor portfolios.
+GAIB’s yield-bearing AI Synthetic Dollar, _**AID**_, rewards holders with passive income simply by staking. Beyond that, it serves as a versatile base currency for trading, lending, and liquidity provisioning across major DeFi protocols, delivering robust functionality and utility for investor portfolios.
 
 ### **Flexible Financial Strategies**
 
-From conservative hedging to higher-risk speculations, GAIB’s integrations with various DeFi protocols creates a range of derivatives and use cases for tokenized GPUs and _USDai_. Whether investors are seeking stable, predictable yields or aiming to exploit market volatility, GAIB let them tailor their strategies, catering to a spectrum of risk-reward profiles.&#x20;
+From conservative hedging to higher-risk speculations, GAIB’s integrations with various DeFi protocols creates a range of derivatives and use cases for tokenized GPUs and _AID_. Whether investors are seeking stable, predictable yields or aiming to exploit market volatility, GAIB let them tailor their strategies, catering to a spectrum of risk-reward profiles.&#x20;
 
 ## Why GAIB Matters to the AI Economy
 
