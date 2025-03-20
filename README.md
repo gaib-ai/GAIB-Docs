@@ -1,6 +1,6 @@
 # Introduction
 
-GAIB (/ga-yeeb/) is the **first AI Economic Layer**, creating a new type of yield bearing assets backed by real AI demands. It tokenizes enterprise-grade GPUs and their yields, creating a decentralized liquid market for compute assets, addressing the growing demand for high-performance computing while giving investors direct exposure to GPU assets. The platform supports a range of decentralized finance (DeFi) applications, including GPU-backed synthetic dollars, lending and borrowing, options and futures, and other derivatives.
+[GAIB](http://gaib.ai) is the economic layer transforming AI infrastructure investment by turning GPU-backed assets into yield-generating opportunities. Through AID, GAIB’s AI synthetic dollar, investors can seamlessly access the AI economy while earning real yield from AI-powered compute. Staking AID (sAID) provides passive income while maintaining liquidity, enabling broader participation in AI-driven financial markets. GAIB also powers AI infrastructure by providing capital solutions for cloud providers and data centers, optimizing their access to compute resources. With integrations across DeFi protocols, including lending, borrowing, and structured products, GAIB bridges AI and blockchain finance—unlocking new opportunities at the intersection of technology and investment.
 
 The name GAIB is inspired not only by the movie Dune, which means “the unseen or the future”, but also by the three things we focus on: GPU, AI & Blockchain.&#x20;
 
