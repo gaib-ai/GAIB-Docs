@@ -8,6 +8,6 @@ When staked, AID is exchanged for **sAID**, and its value increases over time ba
 
 In addition to staking, **sAID** can be used for trading in AMM pools, liquidity provisioning, or creating Principal and Yield Tokens (PT/YT) for customizable risk-return strategies.
 
-Users can swap _AID_ for for stablecoins via liquidity pools, or redeem _AID_ for USDC at a 1:1 ratio (whitelist required).
+Users can swap _AID_ for stablecoins via liquidity pools, or redeem _AID_ for USDC at a 1:1 ratio (whitelist required).
 
 Overall, _AID_ bridges compute with on-chain assets, offering users a seamless way to earn yield, manage risk, and create strategies based on their own risk-reward preferences.&#x20;
