@@ -27,7 +27,11 @@ GAIB will deploy all of the AID Alpha deposits in US Treasury Bills initially, a
 
 ### Yields&#x20;
 
-Users will earn yields in Spices, GAIB's points rewards leading to benefits upon GAIB token launch. 1 AIDa accrues 1 Spice per day. Multipliers apply to early depositors and other user activities.&#x20;
+Users will earn yields in Spices, GAIB's points rewards leading to benefits upon GAIB token launch. 1 AIDa accrues 1 Spice per day. Multipliers apply to early depositors and other user activities.
+
+### Duration
+
+The campaign is expected to last less than three months, with earlier supporters getting higher rewards.
 
 ### Referral
 
@@ -35,7 +39,7 @@ Those who refer other users through the referral link will earn 20% of their ref
 
 ## How to Participate?&#x20;
 
-Simply go to the [Spice Harvest UI](https://aid.gaib.ai/) to become the first to earn AI compute yields on-chain!&#x20;
+Simply go to the [Spice Harvest UI](https://aid.gaib.ai/) and deposit to become the first to earn AI compute yields on-chain!&#x20;
 
 ## Learn More&#x20;
 
