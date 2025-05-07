@@ -31,6 +31,7 @@
   * [Credit Risk Framework](security/credit-risk-framework.md)
   * [Third Party Credit Underwriters](security/third-party-credit-underwriters.md)
   * [Third Party Auditors](security/third-party-auditors.md)
+* [AID Alpha](aid-alpha.md)
 * [Audits](audits.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
