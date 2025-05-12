@@ -1,6 +1,6 @@
 # AID Alpha
 
-Starting May 9th, 2025, GAIB will launch AID Alpha, the Alpha version of AID, to give community early access to AI yield, together with a range of rewards, benefits, and gamifications for the early birds.&#x20;
+Starting May 12th, 2025, GAIB will launch AID Alpha, the Alpha version of AID, to give community early access to AI yield, together with a range of rewards, benefits, and gamifications for the early birds.&#x20;
 
 ## What is AID Alpha?
 
