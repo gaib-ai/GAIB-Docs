@@ -43,5 +43,5 @@ Simply go to the [Spice Harvest UI](https://aid.gaib.ai/) and deposit to become 
 
 ## Learn More&#x20;
 
-Refer to the upcoming AID Alpha blog post for a comprehensive overview of the program. Coming soon!&#x20;
+Refer to the [AID Alpha blog post](https://gaibofficial.medium.com/aid-alpha-the-spice-harvest-is-live-146f7e0548f3) for a comprehensive overview of the program. Stay tuned with GAIB's [X](https://x.com/gaib_ai), [Telegram](https://t.me/gaib_ai), and [Discord](https://discord.gg/gaibofficial) for real time updates!
 
