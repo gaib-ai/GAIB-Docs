@@ -25,6 +25,13 @@ The AID Alpha smart contracts follow ERC-4626 standards. For every dollar of sta
 
 GAIB will deploy all of the AID Alpha deposits in US Treasury Bills initially, and gradually allocate the capital to early GPU financing deals on the platform.&#x20;
 
+### Contract Addresses
+
+Ethereum
+
+* AIDaUSDT: 0xDc45e7027A0489FE6C2E4A0735097d8E6952A340
+* AIDaUSDC: 0xd5255Cc08EBAf6D54ac9448822a18d8A3da29A42
+
 ### Yields&#x20;
 
 Users will earn yields in Spices, GAIB's points rewards leading to benefits upon GAIB token launch. 1 AIDa accrues 1 Spice per day. Multipliers apply to early depositors and other user activities.
