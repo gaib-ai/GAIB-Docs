@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Deal Flow Structure
 
 ## How Funds Will Flow
