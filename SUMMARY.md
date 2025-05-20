@@ -39,6 +39,7 @@
   * [Privacy Policy](legal/privacy-policy.md)
   * [Cookies Policy](legal/cookies-policy.md)
   * [Disclaimers and Risk Disclosures](legal/disclaimers-and-risk-disclosures.md)
+  * [Annex to GAIB Terms of Use – AID Alpha, a Pre-Deposit Campaign](legal/annex-to-gaib-terms-of-use-aid-alpha-a-pre-deposit-campaign.md)
   * [Pilot Program Disclaimer](legal/pilot-program-disclaimer.md)
 * [PICE](aifi.md)
 * [FAQ](faq.md)

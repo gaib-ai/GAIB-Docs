@@ -1,16 +1,16 @@
 # Terms of Use
 
-These Terms of Use govern your access to and use of our services, which include this website, the services we provide on our launchpad and staking platform with the domains gaib.ai, tgpu-ath1.gaib.cloud, relevant interfaces, subdomains, or any other websites, pages, features, mobile applications, application programming interface, or content that Good AI Pte. Ltd. and/or its affiliates (“GAIB” or “Group”) owns or operates by itself and/or with certain authorized partners and service providers (collectively, the “Platform”). By proceeding to use the Platform or services provided by the Group, you acknowledge and agree that you have read, understood, and agree to be bound by all of the provisions set out in these Terms (as amended, supplemented or modified from time to time) which will apply to the services which the Group may in its absolute discretion provide to you from time to time. You also agree that you have read, understood and accept the GAIB Disclaimers and Risk Disclosures, and the GAIB Privacy Policy, which form part of these Terms.
+These Terms of Use govern your access to and use of our products and services, which include this website, the products and services we provide on our pre-deposit, launchpad and staking platform with the domains gaib.ai, aethir.gaib.cloud, relevant interfaces, subdomains, or any other websites, pages, features, vaults, mobile applications, application programming interface, or content that Good AI Pte. Ltd. and/or its affiliates (“GAIB” or “Group”) owns or operates by itself and/or with certain partners and service providers (collectively, the “Platform”). By proceeding to use the Platform, products or services provided by the Group, you acknowledge and agree that you have read, understood, and agree to be bound by all of the provisions set out in these Terms (as amended, supplemented or modified from time to time) which will apply to the services which the Group may in its absolute discretion provide to you from time to time. You also agree that you have read, understood and accept the GAIB Disclaimers and Risk Disclosures, and the GAIB Privacy Policy, which form part of these Terms. Your use of our products is also subject to any other product-specific terms we may provide or include with the products, including but not limited to licence terms included in the files of downloadable software components.
 
 References in these Terms to "we", "our" or "us" are to a group entity within the Group depending on the services being discussed, and references to "you" or "your" are to the person with whom the Group enters into this Agreement.
 
 NO ENTITY WITHIN THE GROUP IS A REGULATED ENTITY AND THE GROUP DOES NOT OPERATE ANY REGULATED ACTIVITY UNDER APPLICABLE JURISDICTIONS. IN COMPLIANCE WITH LAWS AND REGULATIONS, YOUR ACCESS TO OR USE OF OUR INTERFACES MAY BE LIMITED IN SELECT LOCATIONS OR TO CERTAIN USERS.
 
-THESE TERMS DO NOT FULLY DISCLOSE THE RISKS OR MATERIAL ASPECTS OF USING THE GROUP’S SERVICES. THE USER SHOULD NOT CONSTRUE THESE TERMS OR ANY TERMS OF THE AGREEMENT AS LEGAL, TAX OR FINANCIAL ADVICE. GAIB IS NOT ACTING AS THE USER’S FINANCIAL ADVISOR AND THE USER MUST NOT REGARD GAIB AS ACTING IN THAT CAPACITY. THE USER SHOULD CONSULT HIS OWN INDEPENDENT PROFESSIONAL ADVISORS BEFORE ENTERING INTO ANY TRANSACTION AND ONLY USE THE SERVICES IF THE USER HAS FULLY UNDERSTOOD THE NATURE, THE CONTRACTUAL RELATIONSHIP INTO WHICH HE IS ENTERING, ALL RELEVANT TERMS AND CONDITIONS AND THE NATURE AND EXTENT OF THE USER’S EXPOSURE TO LOSS. THE USER HAS BEEN RECOMMENDED TO READ THESE TERMS CAREFULLY AND RETAIN THESE FOR THE USER’S RECORDS.&#x20;
+THESE TERMS DO NOT FULLY DISCLOSE THE RISKS OR MATERIAL ASPECTS OF USING THE GROUP’S SERVICES. THE USER SHOULD NOT CONSTRUE THESE TERMS OR ANY TERMS OF THE AGREEMENT AS LEGAL, TAX OR FINANCIAL ADVICE. GAIB IS NOT ACTING AS THE USER’S FINANCIAL ADVISOR AND THE USER MUST NOT REGARD GAIB AS ACTING IN THAT CAPACITY. THE USER SHOULD CONSULT HIS OWN INDEPENDENT PROFESSIONAL ADVISORS BEFORE ENTERING INTO ANY TRANSACTION AND ONLY USE THE SERVICES IF THE USER HAS FULLY UNDERSTOOD THE NATURE, THE CONTRACTUAL RELATIONSHIP INTO WHICH HE IS ENTERING, ALL RELEVANT TERMS AND CONDITIONS AND THE NATURE AND EXTENT OF THE USER’S EXPOSURE TO LOSS. THE USER HAS BEEN RECOMMENDED TO READ THESE TERMS CAREFULLY AND RETAIN THESE FOR THE USER’S RECORDS.
 
 1\. Acceptance of Terms.
 
-By using the Platform, you agree to these terms, which form a legal agreement between you and GAIB. These terms, along with the GAIB Disclaimers and Risk Disclosures, GAIB Privacy Policy and any referenced documents (collectively, the “Terms”), outline the rules for accessing and utilizing the Platform, including all content, features, vaults, subpages, and services available through it.&#x20;
+By using the Platform, you agree to these terms, which form a legal agreement between you and GAIB. These terms, along with the GAIB Disclaimers and Risk Disclosures, GAIB Privacy Policy and any referenced documents (collectively, the “Terms”), outline the rules for accessing and utilizing the Platform, including all content, features, vaults, subpages, and services available through it.
 
 Before using the Platform, please carefully review these Terms of Use. By using the Platform or clicking to accept the Terms when prompted, you agree to comply with and be bound by them. If you do not agree to these Terms of Use or any applicable documents, you must refrain from using the Platform. In case of any conflict between these Terms and other applicable terms, these Terms will take precedence unless explicitly stated otherwise.
 
@@ -67,14 +67,14 @@ GAIB reserves the right to disable any Web3 Utility-linked identity (such as a p
 
 5\. Eligible Users
 
-To be eligible to use GAIB’s products and/or services (including and not limited to the Platform), you must:&#x20;
+To be eligible to use GAIB’s products and/or services (including and not limited to the Platform), you must:
 
 * acknowledge and agree that the products and/or services may be provided by GAIB (with the intra-group support of entities within such group);
-* be a natural or legal person or other body corporate with full legal capacity and authority to enter into these Terms of Use;&#x20;
+* be a natural or legal person or other body corporate with full legal capacity and authority to enter into these Terms of Use;
 * in the case of an individual, be at least 18 years old or of legal age specified by applicable law in your jurisdiction of residence for a binding contract;
 * in the case of an authorized person entering into these Terms of Use on behalf of a body corporate, have all the necessary rights and authorities to bind such body corporate;
-* not reside in a country where the relevant products and/or services are inaccessible;&#x20;
-* not be a citizen, resident, or organized in, the following jurisdictions: the United States, Mainland China, Hong Kong, Syria, Sudan, Myanmar, the Balkans, the Democratic Republic of the Congo, Libya, Somalia, Zimbabwe, Belarus, Canada, Cuba, North Korea, Iran, Russia, the United Kingdom, Venezuela, Yemen, and specific regions in Ukraine and Russia, including the Crimea region, Donetsk People’s Republic (DNR), Luhansk People’s Republic (LNR), Kherson, and Zaporizhia;&#x20;
+* not reside in a country where the relevant products and/or services are inaccessible;
+* not be a citizen, resident, or organized in, the following jurisdictions: the United States, Mainland China, Hong Kong, Syria, Sudan, Myanmar, the Balkans, the Democratic Republic of the Congo, Libya, Somalia, Zimbabwe, Belarus, Canada, Cuba, North Korea, Iran, Russia, the United Kingdom, Venezuela, Yemen, and specific regions in Ukraine and Russia, including the Crimea region, Donetsk People’s Republic (DNR), Luhansk People’s Republic (LNR), Kherson, and Zaporizhia;
 * not be a party with which GAIB is prohibited to deal under applicable laws, and
 * not be a Proscribed Person.
 
@@ -143,6 +143,8 @@ The provision of the Platform and this Agreement does not create any fiduciary o
 
 The User agrees that the only duties or obligations GAIB or any participant owes are those explicitly outlined in this Agreement, and that the User has no rights outside of those expressly granted in these Terms of Use related to the Platform or the Protocol.
 
+Due to the non-custodial and decentralised nature of our Platform, products and services, we are not intermediaries, agents, advisors, or custodians, and we do not have a fiduciary relationship or obligation to you or any third-party regarding any other decisions or activities that you affect when using our Platform, products or services.
+
 12\. Market Fluctuations and Extreme Market Events.
 
 If GAIB acting reasonably determines that an extreme market event is occurring in relation to a service (including but not limited to a vault or strategy) offered through the Platform, the User agrees that GAIB may take such action as it considers necessary, and in accordance with applicable laws, to respond to this extreme market events, including but not limited to immediately suspending or terminating some of the products or services, immediately removing or a vault from the Platform, forcing redemptions or liquidations by a User and changing the allocation of a User.
@@ -179,12 +181,13 @@ To the fullest extent permitted by law, GAIB will not be liable for any damages 
 
 15\. Limitation of Liability.
 
-To the fullest extent permitted by law, GAIB, its affiliates, agents, licensors, service providers, employees, officers, or directors shall not be liable for any damages of any kind arising from or related to the User’s use or inability to use the Platform, the underlying protocol or blockchain, or any linked websites. This includes, but is not limited to, claims for direct, indirect, special, incidental, consequential, or punitive damages such as personal injury, pain and suffering, emotional distress, loss of revenue, loss of profits, loss of business, loss of anticipated savings, loss of use, loss of goodwill, or loss of data, whether such claims arise from tort (including negligence), breach of contract, or otherwise, even if foreseeable.&#x20;
+To the fullest extent permitted by law, GAIB, its affiliates, agents, licensors, service providers, employees, officers, or directors shall not be liable for any damages of any kind arising from or related to the User’s use or inability to use the Platform, the underlying protocol or blockchain, or any linked websites. This includes, but is not limited to, claims for direct, indirect, special, incidental, consequential, or punitive damages such as personal injury, pain and suffering, emotional distress, loss of revenue, loss of profits, loss of business, loss of anticipated savings, loss of use, loss of goodwill, or loss of data, whether such claims arise from tort (including negligence), breach of contract, or otherwise, even if foreseeable.
 
 For the avoidance of doubt, GAIB and/or any of its affiliates will not be liable for any loss incurred or damage suffered arising from:
 
+1\.         any use of the User’s Account by the User or by any third party (whether or not authorized by the User);
+
 1.
-   1. any use of the User’s Account by the User or by any third party (whether or not authorized by the User);
    2. unauthorized, mistaken, or accidental transfer or exchange of the User's digital assets;
    3. any malfunction, defect or error in any terminal used to process any instructions from the User;
    4. any delay or inability on GAIB’s part to perform any of our obligations under these Terms because of any force majeure event;
@@ -239,14 +242,17 @@ Where any regulatory or government agency makes an enquiry which relates to any 
 
 21\. Termination
 
-GAIB may terminate these Terms of Use and its provision of products or services to a User immediately upon the occurrence of any one or more of the following events:&#x20;
+GAIB may terminate these Terms of Use and its provision of products or services to a User immediately upon the occurrence of any one or more of the following events:
 
-1.
-   1. the occurrence of any Events of Default;
-   2. where GAIB reasonably suspects that the User’s wallet or account is used for market misconduct or any illegal, fraudulent, or unauthorised purpose, including but not limited to money laundering, terrorist financing, fraud or any other crime, or perceives a heightened risk of legal or regulatory non-compliance associated with the User’s activity;
-   3. where GAIB is required to do so by applicable law, or any court or authority to which GAIB is subject in any jurisdiction;
-   4. the User’s use of the Platform is subject to any pending, ongoing or threatened litigation, investigation, or judicial, governmental or regulatory proceedings;  or
-   5. there is any other valid reason which requires GAIB to do so, including but not limited to internal control or risk management.&#x20;
+1\.     the occurrence of any Events of Default;
+
+2\.     where GAIB reasonably suspects that the User’s wallet or account is used for market misconduct or any illegal, fraudulent, or unauthorised purpose, including but not limited to money laundering, terrorist financing, fraud or any other crime, or perceives a heightened risk of legal or regulatory non-compliance associated with the User’s activity;
+
+3\.     where GAIB is required to do so by applicable law, or any court or authority to which GAIB is subject in any jurisdiction;
+
+4\.     the User’s use of the Platform is subject to any pending, ongoing or threatened litigation, investigation, or judicial, governmental or regulatory proceedings;  or
+
+5\.     there is any other valid reason which requires GAIB to do so, including but not limited to internal control or risk management.
 
 “Events of Default” refers to where User is no longer eligible to use the Platform; or fails to duly and punctually observe or perform any of the undertakings, duties and obligations in these Terms of Use; or any dispute or proceedings against the User.
 
@@ -283,8 +289,8 @@ By continuing to use the Platform after updated Terms of Use are posted, the Use
 
 27\. Entire Agreement.
 
-These Terms of Use, along with any documents expressly referenced or incorporated by reference, represent the entire agreement between the User and GAIB regarding the Platform. This agreement supersedes any and all prior or contemporaneous agreements, understandings, representations, and warranties, whether oral or written, related to the Platform.&#x20;
+These Terms of Use, along with any documents expressly referenced or incorporated by reference, represent the entire agreement between the User and GAIB regarding the Platform. This agreement supersedes any and all prior or contemporaneous agreements, understandings, representations, and warranties, whether oral or written, related to the Platform.
 
 28\. Contact Us.
 
-You may contact us regarding GAIB’s services or these Terms by e-mail at [contact@gaib.ai](mailto:contact@gaib.ai).
+You may contact us regarding GAIB’s services or these Terms by e-mail at contact@gaib.ai.
