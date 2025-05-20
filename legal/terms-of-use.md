@@ -185,17 +185,15 @@ To the fullest extent permitted by law, GAIB, its affiliates, agents, licensors,
 
 For the avoidance of doubt, GAIB and/or any of its affiliates will not be liable for any loss incurred or damage suffered arising from:
 
-1\.         any use of the User’s Account by the User or by any third party (whether or not authorized by the User);
-
-1.
-   2. unauthorized, mistaken, or accidental transfer or exchange of the User's digital assets;
-   3. any malfunction, defect or error in any terminal used to process any instructions from the User;
-   4. any delay or inability on GAIB’s part to perform any of our obligations under these Terms because of any force majeure event;
-   5. any damage to or loss or inability to retrieve any data or information that may be related to GAIB's provision of Services;
-   6. fraud or forgery of any third parties;
-   7. any actual or potential losses that may result based on the decision to support a Fork, or the timing of implementation of support;
-   8. any downtime due to the inability to trade or otherwise transfer digital assets; or
-   9. any hold, or for the User's inability to withdraw digital assets or execute trades during the period of any such hold.
+1. any use of the User’s Account by the User or by any third party (whether or not authorized by the User);
+2. unauthorized, mistaken, or accidental transfer or exchange of the User's digital assets;
+3. any malfunction, defect or error in any terminal used to process any instructions from the User;
+4. any delay or inability on GAIB’s part to perform any of our obligations under these Terms because of any force majeure event;
+5. any damage to or loss or inability to retrieve any data or information that may be related to GAIB's provision of Services;
+6. fraud or forgery of any third parties;
+7. any actual or potential losses that may result based on the decision to support a Fork, or the timing of implementation of support;
+8. any downtime due to the inability to trade or otherwise transfer digital assets; or
+9. any hold, or for the User's inability to withdraw digital assets or execute trades during the period of any such hold.
 
 GAIB will not be liable for any loss that is caused by any malfunction of a third party application programming interface or other related interactions with any third party software.
 
@@ -244,15 +242,11 @@ Where any regulatory or government agency makes an enquiry which relates to any 
 
 GAIB may terminate these Terms of Use and its provision of products or services to a User immediately upon the occurrence of any one or more of the following events:
 
-1\.     the occurrence of any Events of Default;
-
-2\.     where GAIB reasonably suspects that the User’s wallet or account is used for market misconduct or any illegal, fraudulent, or unauthorised purpose, including but not limited to money laundering, terrorist financing, fraud or any other crime, or perceives a heightened risk of legal or regulatory non-compliance associated with the User’s activity;
-
-3\.     where GAIB is required to do so by applicable law, or any court or authority to which GAIB is subject in any jurisdiction;
-
-4\.     the User’s use of the Platform is subject to any pending, ongoing or threatened litigation, investigation, or judicial, governmental or regulatory proceedings;  or
-
-5\.     there is any other valid reason which requires GAIB to do so, including but not limited to internal control or risk management.
+1. the occurrence of any Events of Default;
+2. where GAIB reasonably suspects that the User’s wallet or account is used for market misconduct or any illegal, fraudulent, or unauthorised purpose, including but not limited to money laundering, terrorist financing, fraud or any other crime, or perceives a heightened risk of legal or regulatory non-compliance associated with the User’s activity;
+3. where GAIB is required to do so by applicable law, or any court or authority to which GAIB is subject in any jurisdiction;
+4. the User’s use of the Platform is subject to any pending, ongoing or threatened litigation, investigation, or judicial, governmental or regulatory proceedings;  or
+5. there is any other valid reason which requires GAIB to do so, including but not limited to internal control or risk management.
 
 “Events of Default” refers to where User is no longer eligible to use the Platform; or fails to duly and punctually observe or perform any of the undertakings, duties and obligations in these Terms of Use; or any dispute or proceedings against the User.
 
