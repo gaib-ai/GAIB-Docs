@@ -36,7 +36,7 @@
 * [Audits](audits.md)
 * [Legal](legal/README.md)
   * [Terms of Use](legal/terms-of-use.md)
-  * [Privacy Policy](legal/privacy-policy.md)
+  * [GAIB AI Privacy Policy Applicability of This Privacy Policy](legal/gaib-ai-privacy-policy-applicability-of-this-privacy-policy.md)
   * [Cookies Policy](legal/cookies-policy.md)
   * [Disclaimers and Risk Disclosures](legal/disclaimers-and-risk-disclosures.md)
   * [Annex to GAIB Terms of Use – AID Alpha, a Pre-Deposit Campaign](legal/annex-to-gaib-terms-of-use-aid-alpha-a-pre-deposit-campaign.md)
