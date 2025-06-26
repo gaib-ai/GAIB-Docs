@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Parties & Agreements
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-03-20 120225.png" alt=""><figcaption></figcaption></figure>
