@@ -40,8 +40,8 @@ GAIB will deploy all of the AID Alpha deposits in US Treasury Bills initially, a
 | Arbitrum  | AIDollarAlphaUSDT | `0xDc45e7027A0489FE6C2E4A0735097d8E6952A340` |
 | Sei       | AIDollarAlphaUSDC | `0xd5255Cc08EBAf6D54ac9448822a18d8A3da29A42` |
 | Sei       | AIDollarAlphaUSDT | `0xDc45e7027A0489FE6C2E4A0735097d8E6952A340` |
-| BNB Chain | AIDaUSD1          | 0xd5255Cc08EBAf6D54ac9448822a18d8A3da29A42   |
-| BNB Chain | AIDaUSDT          | 0xDc45e7027A0489FE6C2E4A0735097d8E6952A340   |
+| BNB Chain | AIDollarAlphaUSD1 | 0xd5255Cc08EBAf6D54ac9448822a18d8A3da29A42   |
+| BNB Chain | AIDollarAlphaUSDT | 0xDc45e7027A0489FE6C2E4A0735097d8E6952A340   |
 
 #### Yields
 
